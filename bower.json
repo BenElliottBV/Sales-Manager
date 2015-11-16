@@ -1,0 +1,9 @@
+{
+    "name": "point-of-sale",
+    "version": "0.0.0",
+    "dependencies": {
+        "angular"   : "latest",
+        "angular-route" : "latest",
+        "angular-bootstrap" : "latest"
+    }
+}
